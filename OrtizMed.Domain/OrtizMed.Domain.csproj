@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Commands\Medico\Add\" />
+    <Folder Include="Commands\Medico\Delete\" />
+    <Folder Include="Commands\Medico\Put\" />
+    <Folder Include="Commands\Paciente\Add\" />
+    <Folder Include="Commands\Paciente\Delete\" />
+    <Folder Include="Commands\Paciente\Put\" />
+    <Folder Include="Interfaces\" />
+  </ItemGroup>
+
+</Project>
