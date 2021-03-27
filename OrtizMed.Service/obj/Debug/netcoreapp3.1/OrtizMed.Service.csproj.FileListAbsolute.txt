@@ -1,0 +1,12 @@
+C:\Users\Lais e Lu\Documents\OrtizMed\OrtizMed.Service\bin\Debug\netcoreapp3.1\OrtizMed.Service.deps.json
+C:\Users\Lais e Lu\Documents\OrtizMed\OrtizMed.Service\bin\Debug\netcoreapp3.1\OrtizMed.Service.dll
+C:\Users\Lais e Lu\Documents\OrtizMed\OrtizMed.Service\bin\Debug\netcoreapp3.1\OrtizMed.Service.pdb
+C:\Users\Lais e Lu\Documents\OrtizMed\OrtizMed.Service\bin\Debug\netcoreapp3.1\OrtizMed.Domain.dll
+C:\Users\Lais e Lu\Documents\OrtizMed\OrtizMed.Service\bin\Debug\netcoreapp3.1\OrtizMed.Domain.pdb
+C:\Users\Lais e Lu\Documents\OrtizMed\OrtizMed.Service\obj\Debug\netcoreapp3.1\OrtizMed.Service.csprojAssemblyReference.cache
+C:\Users\Lais e Lu\Documents\OrtizMed\OrtizMed.Service\obj\Debug\netcoreapp3.1\OrtizMed.Service.AssemblyInfoInputs.cache
+C:\Users\Lais e Lu\Documents\OrtizMed\OrtizMed.Service\obj\Debug\netcoreapp3.1\OrtizMed.Service.AssemblyInfo.cs
+C:\Users\Lais e Lu\Documents\OrtizMed\OrtizMed.Service\obj\Debug\netcoreapp3.1\OrtizMed.Service.csproj.CoreCompileInputs.cache
+C:\Users\Lais e Lu\Documents\OrtizMed\OrtizMed.Service\obj\Debug\netcoreapp3.1\OrtizMed.Service.csproj.CopyComplete
+C:\Users\Lais e Lu\Documents\OrtizMed\OrtizMed.Service\obj\Debug\netcoreapp3.1\OrtizMed.Service.dll
+C:\Users\Lais e Lu\Documents\OrtizMed\OrtizMed.Service\obj\Debug\netcoreapp3.1\OrtizMed.Service.pdb

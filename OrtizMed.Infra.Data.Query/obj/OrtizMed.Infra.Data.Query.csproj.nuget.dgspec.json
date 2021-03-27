@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lais e Lu\\Documents\\prj\\OrtizMed\\OrtizMed.Infra.Data.Query\\OrtizMed.Infra.Data.Query.csproj": {}
+    "C:\\Users\\Lais e Lu\\Documents\\OrtizMed\\OrtizMed.Infra.Data.Query\\OrtizMed.Infra.Data.Query.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lais e Lu\\Documents\\prj\\OrtizMed\\OrtizMed.Infra.Data.Query\\OrtizMed.Infra.Data.Query.csproj": {
+    "C:\\Users\\Lais e Lu\\Documents\\OrtizMed\\OrtizMed.Infra.Data.Query\\OrtizMed.Infra.Data.Query.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lais e Lu\\Documents\\prj\\OrtizMed\\OrtizMed.Infra.Data.Query\\OrtizMed.Infra.Data.Query.csproj",
+        "projectUniqueName": "C:\\Users\\Lais e Lu\\Documents\\OrtizMed\\OrtizMed.Infra.Data.Query\\OrtizMed.Infra.Data.Query.csproj",
         "projectName": "OrtizMed.Infra.Data.Query",
-        "projectPath": "C:\\Users\\Lais e Lu\\Documents\\prj\\OrtizMed\\OrtizMed.Infra.Data.Query\\OrtizMed.Infra.Data.Query.csproj",
+        "projectPath": "C:\\Users\\Lais e Lu\\Documents\\OrtizMed\\OrtizMed.Infra.Data.Query\\OrtizMed.Infra.Data.Query.csproj",
         "packagesPath": "C:\\Users\\Lais e Lu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lais e Lu\\Documents\\prj\\OrtizMed\\OrtizMed.Infra.Data.Query\\obj\\",
+        "outputPath": "C:\\Users\\Lais e Lu\\Documents\\OrtizMed\\OrtizMed.Infra.Data.Query\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

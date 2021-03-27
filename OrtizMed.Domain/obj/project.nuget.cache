@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tuBNzkYHx+ZqrdvtmHF9WQ+sS6NT2Y511yLgVYB0+/IySvL+8nCPx+G/dzfwEP9akHkjFSsFAO5igVhhRDw5pw==",
+  "dgSpecHash": "2kRSAe+yPLNIMw0u6Koi6tam+vmkuHWFhs7hsdshKcYLhUQPNx81vhoeBwgU2zL6PLqh8Pm9nDVKQywDQpkDBA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lais e Lu\\Documents\\prj\\OrtizMed\\OrtizMed.Domain\\OrtizMed.Domain.csproj",
+  "projectFilePath": "C:\\Users\\Lais e Lu\\Documents\\OrtizMed\\OrtizMed.Domain\\OrtizMed.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

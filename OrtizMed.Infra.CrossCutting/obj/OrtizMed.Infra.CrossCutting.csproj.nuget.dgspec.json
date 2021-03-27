@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lais e Lu\\Documents\\prj\\OrtizMed\\OrtizMed.Infra.CrossCutting\\OrtizMed.Infra.CrossCutting.csproj": {}
+    "C:\\Users\\Lais e Lu\\Documents\\OrtizMed\\OrtizMed.Infra.CrossCutting\\OrtizMed.Infra.CrossCutting.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lais e Lu\\Documents\\prj\\OrtizMed\\OrtizMed.Infra.CrossCutting\\OrtizMed.Infra.CrossCutting.csproj": {
+    "C:\\Users\\Lais e Lu\\Documents\\OrtizMed\\OrtizMed.Infra.CrossCutting\\OrtizMed.Infra.CrossCutting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lais e Lu\\Documents\\prj\\OrtizMed\\OrtizMed.Infra.CrossCutting\\OrtizMed.Infra.CrossCutting.csproj",
+        "projectUniqueName": "C:\\Users\\Lais e Lu\\Documents\\OrtizMed\\OrtizMed.Infra.CrossCutting\\OrtizMed.Infra.CrossCutting.csproj",
         "projectName": "OrtizMed.Infra.CrossCutting",
-        "projectPath": "C:\\Users\\Lais e Lu\\Documents\\prj\\OrtizMed\\OrtizMed.Infra.CrossCutting\\OrtizMed.Infra.CrossCutting.csproj",
+        "projectPath": "C:\\Users\\Lais e Lu\\Documents\\OrtizMed\\OrtizMed.Infra.CrossCutting\\OrtizMed.Infra.CrossCutting.csproj",
         "packagesPath": "C:\\Users\\Lais e Lu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lais e Lu\\Documents\\prj\\OrtizMed\\OrtizMed.Infra.CrossCutting\\obj\\",
+        "outputPath": "C:\\Users\\Lais e Lu\\Documents\\OrtizMed\\OrtizMed.Infra.CrossCutting\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

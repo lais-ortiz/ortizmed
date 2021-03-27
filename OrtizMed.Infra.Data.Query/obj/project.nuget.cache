@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "McVA8o2aMtoQwlgb5oMT5/EuOt0cqLL7Nflj1DvSppsmMqavDpU6RtFxTD8IR5eIzAOKf1RyyWRuAMyz5oxhrQ==",
+  "dgSpecHash": "YNhT6mxItpvSx9S4anS+ou4mN78n4OYCJnvlisDbpdxg30vwNON456T6s4jh6cqOp4Rd9Qohw5M9YXD0JFx1yg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lais e Lu\\Documents\\prj\\OrtizMed\\OrtizMed.Infra.Data.Query\\OrtizMed.Infra.Data.Query.csproj",
+  "projectFilePath": "C:\\Users\\Lais e Lu\\Documents\\OrtizMed\\OrtizMed.Infra.Data.Query\\OrtizMed.Infra.Data.Query.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

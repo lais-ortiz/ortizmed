@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lais e Lu\\Documents\\prj\\OrtizMed\\OrtizMed.Domain\\OrtizMed.Domain.csproj": {}
+    "C:\\Users\\Lais e Lu\\Documents\\OrtizMed\\OrtizMed.Domain\\OrtizMed.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lais e Lu\\Documents\\prj\\OrtizMed\\OrtizMed.Domain\\OrtizMed.Domain.csproj": {
+    "C:\\Users\\Lais e Lu\\Documents\\OrtizMed\\OrtizMed.Domain\\OrtizMed.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lais e Lu\\Documents\\prj\\OrtizMed\\OrtizMed.Domain\\OrtizMed.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Lais e Lu\\Documents\\OrtizMed\\OrtizMed.Domain\\OrtizMed.Domain.csproj",
         "projectName": "OrtizMed.Domain",
-        "projectPath": "C:\\Users\\Lais e Lu\\Documents\\prj\\OrtizMed\\OrtizMed.Domain\\OrtizMed.Domain.csproj",
+        "projectPath": "C:\\Users\\Lais e Lu\\Documents\\OrtizMed\\OrtizMed.Domain\\OrtizMed.Domain.csproj",
         "packagesPath": "C:\\Users\\Lais e Lu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lais e Lu\\Documents\\prj\\OrtizMed\\OrtizMed.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Lais e Lu\\Documents\\OrtizMed\\OrtizMed.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

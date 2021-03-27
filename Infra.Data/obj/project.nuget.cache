@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "cFD2w3uNyXjnIqxoRmz7PlA5mfdEYMPdO7w0hLeSdvOjgHGU3WOCa+CuuCkTnObE41VfZ6ipRSl0WBbPBTEq2w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lais e Lu\\Documents\\OrtizMed\\Infra.Data\\Infra.Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lais e Lu\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\Lais e Lu\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\Lais e Lu\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Lais e Lu\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

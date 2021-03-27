@@ -11,7 +11,6 @@
     <Folder Include="Commands\Paciente\Add\" />
     <Folder Include="Commands\Paciente\Delete\" />
     <Folder Include="Commands\Paciente\Put\" />
-    <Folder Include="Interfaces\" />
   </ItemGroup>
 
 </Project>

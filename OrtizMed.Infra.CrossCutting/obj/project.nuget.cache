@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QvUFLQZT1e3g6VRShPCyq10DIci+NojD3pcws7CpFcdply0QTn0unP8qdgYH02ivrN+HLqrJcfiNmPyY1NqjTw==",
+  "dgSpecHash": "5WHiZUKFv5SUQgmFIe9eyaL121OiirABjCqtja0O86LfAZbbFKiG4OI7vTGbQvJIl7JTLnCDK1WwxiIa8mwzhQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lais e Lu\\Documents\\prj\\OrtizMed\\OrtizMed.Infra.CrossCutting\\OrtizMed.Infra.CrossCutting.csproj",
+  "projectFilePath": "C:\\Users\\Lais e Lu\\Documents\\OrtizMed\\OrtizMed.Infra.CrossCutting\\OrtizMed.Infra.CrossCutting.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

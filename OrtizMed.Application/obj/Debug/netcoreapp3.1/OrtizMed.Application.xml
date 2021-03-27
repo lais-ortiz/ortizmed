@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>OrtizMed.Application</name>
+    </assembly>
+    <members>
+        <member name="M:OrtizMed.Application.Controllers.MedicoController.Get(Infra.Data.Queries.Medico.FiltroPesquisa,System.String)">
+            <summary>Filtro: 0 - nome | 1 - região | 2 - especialidade</summary>
+        </member>
+    </members>
+</doc>

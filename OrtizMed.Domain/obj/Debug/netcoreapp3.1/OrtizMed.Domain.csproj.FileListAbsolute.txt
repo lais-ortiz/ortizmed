@@ -1,0 +1,9 @@
+C:\Users\Lais e Lu\Documents\OrtizMed\OrtizMed.Domain\bin\Debug\netcoreapp3.1\OrtizMed.Domain.deps.json
+C:\Users\Lais e Lu\Documents\OrtizMed\OrtizMed.Domain\bin\Debug\netcoreapp3.1\OrtizMed.Domain.dll
+C:\Users\Lais e Lu\Documents\OrtizMed\OrtizMed.Domain\bin\Debug\netcoreapp3.1\OrtizMed.Domain.pdb
+C:\Users\Lais e Lu\Documents\OrtizMed\OrtizMed.Domain\obj\Debug\netcoreapp3.1\OrtizMed.Domain.csprojAssemblyReference.cache
+C:\Users\Lais e Lu\Documents\OrtizMed\OrtizMed.Domain\obj\Debug\netcoreapp3.1\OrtizMed.Domain.AssemblyInfoInputs.cache
+C:\Users\Lais e Lu\Documents\OrtizMed\OrtizMed.Domain\obj\Debug\netcoreapp3.1\OrtizMed.Domain.AssemblyInfo.cs
+C:\Users\Lais e Lu\Documents\OrtizMed\OrtizMed.Domain\obj\Debug\netcoreapp3.1\OrtizMed.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Lais e Lu\Documents\OrtizMed\OrtizMed.Domain\obj\Debug\netcoreapp3.1\OrtizMed.Domain.dll
+C:\Users\Lais e Lu\Documents\OrtizMed\OrtizMed.Domain\obj\Debug\netcoreapp3.1\OrtizMed.Domain.pdb

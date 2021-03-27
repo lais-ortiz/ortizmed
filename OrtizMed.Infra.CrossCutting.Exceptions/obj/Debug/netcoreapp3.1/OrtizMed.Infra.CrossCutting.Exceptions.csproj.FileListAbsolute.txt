@@ -1,0 +1,9 @@
+C:\Users\Lais e Lu\Documents\OrtizMed\OrtizMed.Infra.CrossCutting.Exceptions\bin\Debug\netcoreapp3.1\OrtizMed.Infra.CrossCutting.Exceptions.deps.json
+C:\Users\Lais e Lu\Documents\OrtizMed\OrtizMed.Infra.CrossCutting.Exceptions\bin\Debug\netcoreapp3.1\OrtizMed.Infra.CrossCutting.Exceptions.dll
+C:\Users\Lais e Lu\Documents\OrtizMed\OrtizMed.Infra.CrossCutting.Exceptions\bin\Debug\netcoreapp3.1\OrtizMed.Infra.CrossCutting.Exceptions.pdb
+C:\Users\Lais e Lu\Documents\OrtizMed\OrtizMed.Infra.CrossCutting.Exceptions\obj\Debug\netcoreapp3.1\OrtizMed.Infra.CrossCutting.Exceptions.AssemblyInfoInputs.cache
+C:\Users\Lais e Lu\Documents\OrtizMed\OrtizMed.Infra.CrossCutting.Exceptions\obj\Debug\netcoreapp3.1\OrtizMed.Infra.CrossCutting.Exceptions.AssemblyInfo.cs
+C:\Users\Lais e Lu\Documents\OrtizMed\OrtizMed.Infra.CrossCutting.Exceptions\obj\Debug\netcoreapp3.1\OrtizMed.Infra.CrossCutting.Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\Lais e Lu\Documents\OrtizMed\OrtizMed.Infra.CrossCutting.Exceptions\obj\Debug\netcoreapp3.1\OrtizMed.Infra.CrossCutting.Exceptions.dll
+C:\Users\Lais e Lu\Documents\OrtizMed\OrtizMed.Infra.CrossCutting.Exceptions\obj\Debug\netcoreapp3.1\OrtizMed.Infra.CrossCutting.Exceptions.pdb
+C:\Users\Lais e Lu\Documents\OrtizMed\OrtizMed.Infra.CrossCutting.Exceptions\obj\Debug\netcoreapp3.1\OrtizMed.Infra.CrossCutting.Exceptions.csprojAssemblyReference.cache
