@@ -1,4 +1,3 @@
-using Infra.Data.Queries.Medico.Get;
 using MediatR;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -6,6 +5,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using OrtizMed.Domain.Interfaces;
+using OrtizMed.Infra.Data.Query.Queries.Medico.Get;
 using OrtizMed.Service.Firebase;
 using System;
 using System.IO;

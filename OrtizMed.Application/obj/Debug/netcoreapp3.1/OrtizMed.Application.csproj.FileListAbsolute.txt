@@ -14,9 +14,7 @@ C:\Users\Lais e Lu\Documents\OrtizMed\OrtizMed.Application\bin\Debug\netcoreapp3
 C:\Users\Lais e Lu\Documents\OrtizMed\OrtizMed.Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\Lais e Lu\Documents\OrtizMed\OrtizMed.Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\Lais e Lu\Documents\OrtizMed\OrtizMed.Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\Lais e Lu\Documents\OrtizMed\OrtizMed.Application\bin\Debug\netcoreapp3.1\Infra.Data.dll
 C:\Users\Lais e Lu\Documents\OrtizMed\OrtizMed.Application\bin\Debug\netcoreapp3.1\OrtizMed.Infra.CrossCutting.Exceptions.dll
-C:\Users\Lais e Lu\Documents\OrtizMed\OrtizMed.Application\bin\Debug\netcoreapp3.1\Infra.Data.pdb
 C:\Users\Lais e Lu\Documents\OrtizMed\OrtizMed.Application\bin\Debug\netcoreapp3.1\OrtizMed.Infra.CrossCutting.Exceptions.pdb
 C:\Users\Lais e Lu\Documents\OrtizMed\OrtizMed.Application\obj\Debug\netcoreapp3.1\OrtizMed.Application.csprojAssemblyReference.cache
 C:\Users\Lais e Lu\Documents\OrtizMed\OrtizMed.Application\obj\Debug\netcoreapp3.1\OrtizMed.Application.AssemblyInfoInputs.cache
@@ -39,3 +37,5 @@ C:\Users\Lais e Lu\Documents\OrtizMed\OrtizMed.Application\bin\Debug\netcoreapp3
 C:\Users\Lais e Lu\Documents\OrtizMed\OrtizMed.Application\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 C:\Users\Lais e Lu\Documents\OrtizMed\OrtizMed.Application\bin\Debug\netcoreapp3.1\OrtizMed.Application.xml
 C:\Users\Lais e Lu\Documents\OrtizMed\OrtizMed.Application\obj\Debug\netcoreapp3.1\OrtizMed.Application.xml
+C:\Users\Lais e Lu\Documents\OrtizMed\OrtizMed.Application\bin\Debug\netcoreapp3.1\OrtizMed.Infra.Data.Query.dll
+C:\Users\Lais e Lu\Documents\OrtizMed\OrtizMed.Application\bin\Debug\netcoreapp3.1\OrtizMed.Infra.Data.Query.pdb

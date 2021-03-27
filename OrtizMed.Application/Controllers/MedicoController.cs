@@ -1,12 +1,8 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using Microsoft.Extensions.Logging;
-using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Threading.Tasks;
-using Infra.Data.Queries.Medico;
 using MediatR;
-using Infra.Data.Queries.Medico.Get;
+using OrtizMed.Infra.Data.Query.Queries.Medico.Get;
+using OrtizMed.Infra.Data.Query.Queries.Medico;
 
 namespace OrtizMed.Application.Controllers
 {

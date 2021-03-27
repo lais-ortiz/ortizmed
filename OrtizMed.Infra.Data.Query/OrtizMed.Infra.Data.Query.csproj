@@ -4,4 +4,9 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\OrtizMed.Domain\OrtizMed.Domain.csproj" />
+    <ProjectReference Include="..\OrtizMed.Infra.CrossCutting.Exceptions\OrtizMed.Infra.CrossCutting.Exceptions.csproj" />
+  </ItemGroup>
+
 </Project>

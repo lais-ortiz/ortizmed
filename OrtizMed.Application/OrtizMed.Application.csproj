@@ -13,7 +13,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Infra.Data\Infra.Data.csproj" />
+    <ProjectReference Include="..\OrtizMed.Infra.Data.Query\OrtizMed.Infra.Data.Query.csproj" />
     <ProjectReference Include="..\OrtizMed.Service\OrtizMed.Service.csproj" />
   </ItemGroup>
 

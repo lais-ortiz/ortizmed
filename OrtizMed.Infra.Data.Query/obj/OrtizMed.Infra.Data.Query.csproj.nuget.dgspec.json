@@ -4,6 +4,130 @@
     "C:\\Users\\Lais e Lu\\Documents\\OrtizMed\\OrtizMed.Infra.Data.Query\\OrtizMed.Infra.Data.Query.csproj": {}
   },
   "projects": {
+    "C:\\Users\\Lais e Lu\\Documents\\OrtizMed\\OrtizMed.Domain\\OrtizMed.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Lais e Lu\\Documents\\OrtizMed\\OrtizMed.Domain\\OrtizMed.Domain.csproj",
+        "projectName": "OrtizMed.Domain",
+        "projectPath": "C:\\Users\\Lais e Lu\\Documents\\OrtizMed\\OrtizMed.Domain\\OrtizMed.Domain.csproj",
+        "packagesPath": "C:\\Users\\Lais e Lu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lais e Lu\\Documents\\OrtizMed\\OrtizMed.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Lais e Lu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Lais e Lu\\Documents\\OrtizMed\\OrtizMed.Infra.CrossCutting.Exceptions\\OrtizMed.Infra.CrossCutting.Exceptions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Lais e Lu\\Documents\\OrtizMed\\OrtizMed.Infra.CrossCutting.Exceptions\\OrtizMed.Infra.CrossCutting.Exceptions.csproj",
+        "projectName": "OrtizMed.Infra.CrossCutting.Exceptions",
+        "projectPath": "C:\\Users\\Lais e Lu\\Documents\\OrtizMed\\OrtizMed.Infra.CrossCutting.Exceptions\\OrtizMed.Infra.CrossCutting.Exceptions.csproj",
+        "packagesPath": "C:\\Users\\Lais e Lu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lais e Lu\\Documents\\OrtizMed\\OrtizMed.Infra.CrossCutting.Exceptions\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Lais e Lu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "C:\\Users\\Lais e Lu\\Documents\\OrtizMed\\OrtizMed.Infra.Data.Query\\OrtizMed.Infra.Data.Query.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -30,7 +154,14 @@
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\Lais e Lu\\Documents\\OrtizMed\\OrtizMed.Domain\\OrtizMed.Domain.csproj": {
+                "projectPath": "C:\\Users\\Lais e Lu\\Documents\\OrtizMed\\OrtizMed.Domain\\OrtizMed.Domain.csproj"
+              },
+              "C:\\Users\\Lais e Lu\\Documents\\OrtizMed\\OrtizMed.Infra.CrossCutting.Exceptions\\OrtizMed.Infra.CrossCutting.Exceptions.csproj": {
+                "projectPath": "C:\\Users\\Lais e Lu\\Documents\\OrtizMed\\OrtizMed.Infra.CrossCutting.Exceptions\\OrtizMed.Infra.CrossCutting.Exceptions.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
